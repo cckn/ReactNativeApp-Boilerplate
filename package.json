@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.5",
+    "save": "^2.4.0",
     "styled-components": "^5.0.0"
   },
   "devDependencies": {
@@ -23,6 +24,7 @@
     "@types/styled-components": "^4.4.2",
     "babel-jest": "^24.9.0",
     "babel-plugin-root-import": "^6.4.1",
+    "concurrently": "^5.0.2",
     "eslint": "^6.5.1",
     "jest": "^24.9.0",
     "metro-react-native-babel-preset": "^0.56.0",
